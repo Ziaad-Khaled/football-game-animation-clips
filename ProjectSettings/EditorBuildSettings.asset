@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PlayerRunningScene.unity
+    guid: 869ebc92ac2956e4db8c51718a1d0144
+  - enabled: 1
+    path: Assets/Scenes/GroundCrossingScene.unity
+    guid: 0a966d8902058a64caca99f3934e7ead
+  - enabled: 1
+    path: Assets/Scenes/GoalKeeperWin.unity
+    guid: 1136a719ba6c81742941622736b342af
+  - enabled: 1
+    path: Assets/Scenes/AirCrossingScene.unity
+    guid: d58eaffc0034ba440827bfe75ad7e109
+  m_configObjects: {}
