@@ -4,6 +4,13 @@
 
 In this game, you will experience the excitement of reaching a FIFA World Cup final for the first time in your country's history. As the player, you will have three teammates in front of the goal and only the goalkeeper to beat. The atmosphere is electrifying as the game is tied, and fans are eagerly waiting for your goal. Will you fulfill their dreams?
 
+## Game Preview
+
+
+https://github.com/Ziaad-Khaled/football-game-animation-clips/assets/77291238/1c9e3b54-3148-4bcc-8912-a0a411710fe5
+
+
+
 ## Flowchart
 
 The game follows the following flowchart:
